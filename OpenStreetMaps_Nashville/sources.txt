@@ -1,0 +1,6 @@
+References:
+https://stackoverflow.com/questions/15356641/how-to-write-xml-declaration-using-xml-etree-elementtree
+https://stackoverflow.com/questions/30418481/error-dict-object-has-no-attribute-iteritems
+https://stackoverflow.com/questions/53089403/how-to-fix-python3-errror-name-unicode-is-not-defined
+https://stackoverflow.com/questions/28583565/str-object-has-no-attribute-decode-python-3-error
+https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed
