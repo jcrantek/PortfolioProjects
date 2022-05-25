@@ -1,0 +1,1681 @@
+id,key,value,type
+153507574,ele,184,regular
+153507574,gnis:County,Davidson,regular
+153507574,gnis:County_num,037,regular
+153507574,gnis:ST_alpha,TN,regular
+153507574,gnis:ST_num,47,regular
+153507574,id,1313407,gnis
+153507574,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153507574,name,Glendale Park,regular
+153507574,place,hamlet,regular
+153679997,ele,171,regular
+153679997,gnis:County,Davidson,regular
+153679997,gnis:County_num,037,regular
+153679997,gnis:ST_alpha,TN,regular
+153679997,gnis:ST_num,47,regular
+153679997,id,1313480,gnis
+153679997,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+153679997,name,Pebble Creek,regular
+153679997,place,hamlet,regular
+202185287,highway,stop,regular
+202199393,highway,motorway_junction,regular
+202199393,ref,80,regular
+202222749,railway,level_crossing,regular
+202223850,highway,traffic_signals,regular
+202223850,traffic_signals,signal,regular
+202223850,direction,both,traffic_signals
+202249903,highway,traffic_signals,regular
+202249903,traffic_signals,signal,regular
+202249903,direction,both,traffic_signals
+202250188,highway,traffic_signals,regular
+202250188,traffic_signals,signal,regular
+202251019,highway,traffic_signals,regular
+202251019,traffic_signals,signal,regular
+202251019,direction,both,traffic_signals
+202257192,railway,level_crossing,regular
+202286475,highway,traffic_signals,regular
+202286475,traffic_signals,signal,regular
+202291997,highway,traffic_signals,regular
+202304547,highway,traffic_signals,regular
+202304547,traffic_signals,signal,regular
+202308594,highway,turning_circle,regular
+202313855,highway,traffic_signals,regular
+202313855,traffic_signals,signal,regular
+202313855,direction,both,traffic_signals
+202314963,crossing,zebra,regular
+202314963,highway,crossing,regular
+202336680,highway,turning_circle,regular
+202338793,highway,turning_circle,regular
+202343375,highway,turning_circle,regular
+202354319,railway,level_crossing,regular
+202354334,railway,level_crossing,regular
+202355635,railway,level_crossing,regular
+202358828,railway,level_crossing,regular
+202360661,railway,level_crossing,regular
+202384445,highway,turning_circle,regular
+202385903,railway,level_crossing,regular
+202386993,railway,level_crossing,regular
+202387689,railway,level_crossing,regular
+202400939,highway,turning_circle,regular
+202407921,highway,traffic_signals,regular
+202407921,traffic_signals,signal,regular
+202407921,direction,both,traffic_signals
+202414865,highway,turning_circle,regular
+202420349,highway,traffic_signals,regular
+202420349,traffic_signals,signal,regular
+202420349,direction,both,traffic_signals
+202421448,highway,turning_circle,regular
+202452973,highway,turning_circle,regular
+202459503,highway,traffic_signals,regular
+202470888,highway,turning_loop,regular
+202484330,highway,turning_circle,regular
+306686016,aeroway,aerodrome,regular
+306686016,landuse,military,regular
+306686016,military,airfield,regular
+306686016,name,Tennessee Air National Guard,regular
+356799764,amenity,place_of_worship,regular
+356799764,ele,150,regular
+356799764,county_id,037,gnis
+356799764,created,05/19/1980,gnis
+356799764,feature_id,1283478,gnis
+356799764,state_id,47,gnis
+356799764,name,Ebenezer Church,regular
+356799764,religion,christian,regular
+356817280,city,Nashville,addr
+356817280,housenumber,105,addr
+356817280,postcode,37206,addr
+356817280,state,TN,addr
+356817280,street,South 17th Street,addr
+356817280,amenity,school,regular
+356817280,ele,156,regular
+356817280,county_id,037,gnis
+356817280,created,05/19/1980,gnis
+356817280,feature_id,1291769,gnis
+356817280,state_id,47,gnis
+356817280,name,Lockeland Design Center,regular
+356817280,operator,Metro Schools,regular
+356830336,amenity,school,regular
+356830336,designation,School Administration,regular
+356830336,ele,195,regular
+356830336,county_id,037,gnis
+356830336,created,05/19/1980,gnis
+356830336,feature_id,1299658,gnis
+356830336,state_id,47,gnis
+356830336,name,Robertson Academy (1936),regular
+356830336,source,MNPS,regular
+356841239,amenity,school,regular
+356841239,ele,143,regular
+356841239,county_id,037,gnis
+356841239,created,05/19/1980,gnis
+356841239,feature_id,1304301,gnis
+356841239,state_id,47,gnis
+356841239,name,Vaught School,regular
+356844793,amenity,school,regular
+356844793,ele,149,regular
+356844793,county_id,037,gnis
+356844793,created,05/19/1980,gnis
+356844793,feature_id,1306408,gnis
+356844793,state_id,47,gnis
+356844793,name,East Junior High School,regular
+356845463,amenity,place_of_worship,regular
+356845463,ele,170,regular
+356845463,county_id,037,gnis
+356845463,created,05/19/1980,gnis
+356845463,feature_id,1306775,gnis
+356845463,state_id,47,gnis
+356845463,name,Mount Olive Church,regular
+356845463,religion,christian,regular
+356845908,city,Nashville,addr
+356845908,housenumber,1212,addr
+356845908,postcode,37211,addr
+356845908,street,Saturn Drive,addr
+356845908,amenity,place_of_worship,regular
+356845908,feature_id,1307029,gnis
+356845908,name,Saturn Drive Baptist Church,regular
+356845908,phone,615-361-1656,regular
+356845908,religion,christian,regular
+356845908,website,https://saturndrivechurch.com/,regular
+356878579,amenity,place_of_worship,regular
+356878579,denomination,baptist,regular
+356878579,ele,145,regular
+356878579,county_id,037,gnis
+356878579,created,03/01/1990,gnis
+356878579,feature_id,1324282,gnis
+356878579,state_id,47,gnis
+356878579,name,Arthur Avenue Missionary Baptist Church,regular
+356878579,religion,christian,regular
+356878825,amenity,place_of_worship,regular
+356878825,ele,186,regular
+356878825,county_id,037,gnis
+356878825,created,03/01/1990,gnis
+356878825,feature_id,1324329,gnis
+356878825,state_id,47,gnis
+356878825,name,Born Again Church,regular
+356878825,religion,christian,regular
+356878914,amenity,place_of_worship,regular
+356878914,ele,157,regular
+356878914,county_id,037,gnis
+356878914,created,03/01/1990,gnis
+356878914,feature_id,1324368,gnis
+356878914,state_id,47,gnis
+356878914,name,Church of God,regular
+356878914,religion,christian,regular
+356879003,amenity,place_of_worship,regular
+356879003,denomination,baptist,regular
+356879003,ele,151,regular
+356879003,county_id,037,gnis
+356879003,created,03/01/1990,gnis
+356879003,feature_id,1324401,gnis
+356879003,state_id,47,gnis
+356879003,name,Cumberland Primitive Baptist Tabernacle,regular
+356879003,religion,christian,regular
+356879070,amenity,place_of_worship,regular
+356879070,denomination,baptist,regular
+356879070,ele,145,regular
+356879070,county_id,037,gnis
+356879070,created,03/01/1990,gnis
+356879070,feature_id,1324435,gnis
+356879070,state_id,47,gnis
+356879070,name,Ebenezer Missionary Baptist Church,regular
+356879070,religion,christian,regular
+356879134,amenity,place_of_worship,regular
+356879134,denomination,baptist,regular
+356879134,ele,156,regular
+356879134,county_id,037,gnis
+356879134,created,03/01/1990,gnis
+356879134,feature_id,1324462,gnis
+356879134,state_id,47,gnis
+356879134,name,Fatherland Baptist Church,regular
+356879134,religion,christian,regular
+356879197,amenity,place_of_worship,regular
+356879197,ele,147,regular
+356879197,county_id,037,gnis
+356879197,created,03/01/1990,gnis
+356879197,feature_id,1324484,gnis
+356879197,state_id,47,gnis
+356879197,name,First Southern Methodist Church,regular
+356879197,religion,christian,regular
+356879253,amenity,place_of_worship,regular
+356879253,denomination,baptist,regular
+356879253,ele,148,regular
+356879253,county_id,037,gnis
+356879253,created,03/01/1990,gnis
+356879253,feature_id,1324506,gnis
+356879253,state_id,47,gnis
+356879253,name,Galilee Missionary Baptist Church,regular
+356879253,religion,christian,regular
+356879279,amenity,place_of_worship,regular
+356879279,ele,172,regular
+356879279,county_id,037,gnis
+356879279,created,03/01/1990,gnis
+356879279,feature_id,1324532,gnis
+356879279,state_id,47,gnis
+356879279,name,Greater Christ Temple,regular
+356879300,amenity,place_of_worship,regular
+356879300,denomination,lutheran,regular
+356879300,ele,148,regular
+356879300,county_id,037,gnis
+356879300,created,03/01/1990,gnis
+356879300,feature_id,1324563,gnis
+356879300,state_id,47,gnis
+356879300,name,Holy Trinity Lutheran Church,regular
+356879300,religion,christian,regular
+356879346,amenity,place_of_worship,regular
+356879346,denomination,jehovahs_witness,regular
+356879346,ele,165,regular
+356879346,county_id,037,gnis
+356879346,created,03/01/1990,gnis
+356879346,feature_id,1324594,gnis
+356879346,state_id,47,gnis
+356879346,name,Kingdom Hall of Jehovahs Witnesses,regular
+356879346,religion,christian,regular
+356879409,amenity,place_of_worship,regular
+356879409,denomination,baptist,regular
+356879409,ele,159,regular
+356879409,county_id,037,gnis
+356879409,created,03/01/1990,gnis
+356879409,feature_id,1324627,gnis
+356879409,state_id,47,gnis
+356879409,name,McNairy Hills United Primitive Baptist Church,regular
+356879409,religion,christian,regular
+356879454,amenity,place_of_worship,regular
+356879454,ele,144,regular
+356879454,county_id,037,gnis
+356879454,created,03/01/1990,gnis
+356879454,feature_id,1324657,gnis
+356879454,state_id,47,gnis
+356879454,name,North Nashville Church of God,regular
+356879454,religion,christian,regular
+356879488,amenity,place_of_worship,regular
+356879488,denomination,baptist,regular
+356879488,ele,184,regular
+356879488,county_id,037,gnis
+356879488,created,03/01/1990,gnis
+356879488,feature_id,1324693,gnis
+356879488,state_id,47,gnis
+356879488,name,Pleasant Valley Primitive Baptist Church,regular
+356879488,religion,christian,regular
+356879533,amenity,place_of_worship,regular
+356879533,ele,138,regular
+356879533,county_id,037,gnis
+356879533,created,03/01/1990,gnis
+356879533,feature_id,1324727,gnis
+356879533,state_id,47,gnis
+356879533,name,Saint Anns Episcopal Church,regular
+356879533,religion,christian,regular
+356879533,wikidata,Q7586966,regular
+356879590,amenity,place_of_worship,regular
+356879590,ele,163,regular
+356879590,county_id,037,gnis
+356879590,created,03/01/1990,gnis
+356879590,feature_id,1324745,gnis
+356879590,state_id,47,gnis
+356879590,name,Saint Philips Episcopal Church,regular
+356879590,religion,christian,regular
+356879638,amenity,place_of_worship,regular
+356879638,denomination,baptist,regular
+356879638,ele,138,regular
+356879638,county_id,037,gnis
+356879638,created,03/01/1990,gnis
+356879638,feature_id,1324780,gnis
+356879638,state_id,47,gnis
+356879638,name,Sylvan Street Baptist Church,regular
+356879638,religion,christian,regular
+356879679,amenity,place_of_worship,regular
+356879679,denomination,baptist,regular
+356879679,ele,137,regular
+356879679,county_id,037,gnis
+356879679,created,03/01/1990,gnis
+356879679,feature_id,1324821,gnis
+356879679,state_id,47,gnis
+356879679,name,West Nashville Freewill Baptist Church,regular
+356879679,religion,christian,regular
+356879705,amenity,place_of_worship,regular
+356879705,ele,169,regular
+356879705,county_id,037,gnis
+356879705,created,03/01/1990,gnis
+356879705,feature_id,1324847,gnis
+356879705,state_id,47,gnis
+356879705,name,Woodbine United Methodist Church,regular
+356879705,religion,christian,regular
+356882573,amenity,place_of_worship,regular
+356882573,ele,146,regular
+356882573,county_id,037,gnis
+356882573,created,06/01/1990,gnis
+356882573,feature_id,1326337,gnis
+356882573,state_id,47,gnis
+356882573,name,Bethel Church of God,regular
+356882573,religion,christian,regular
+356882605,amenity,place_of_worship,regular
+356882605,denomination,baptist,regular
+356882605,ele,157,regular
+356882605,county_id,037,gnis
+356882605,created,06/01/1990,gnis
+356882605,feature_id,1326352,gnis
+356882605,state_id,47,gnis
+356882605,name,Benton Avenue Baptist Church,regular
+356882605,religion,christian,regular
+356882645,amenity,place_of_worship,regular
+356882645,denomination,baptist,regular
+356882645,ele,146,regular
+356882645,county_id,037,gnis
+356882645,created,06/01/1990,gnis
+356882645,feature_id,1326378,gnis
+356882645,state_id,47,gnis
+356882645,name,Glenwood Baptist Church,regular
+356882645,religion,christian,regular
+356886606,ele,152,regular
+356886606,county_id,037,gnis
+356886606,created,08/01/1991,gnis
+356886606,feature_id,1640110,gnis
+356886606,state_id,47,gnis
+356886606,man_made,tower,regular
+356886606,name,WJYN-FM (Nashville),regular
+356895299,amenity,place_of_worship,regular
+356895299,denomination,presbyterian,regular
+356895299,ele,189,regular
+356895299,county_id,037,gnis
+356895299,created,05/01/1991,gnis
+356895299,feature_id,1647850,gnis
+356895299,state_id,47,gnis
+356895299,name,Southminster Presbyterian Church,regular
+356895299,religion,christian,regular
+356895397,amenity,place_of_worship,regular
+356895397,denomination,baptist,regular
+356895397,ele,170,regular
+356895397,county_id,037,gnis
+356895397,created,09/01/1990,gnis
+356895397,feature_id,1647890,gnis
+356895397,state_id,47,gnis
+356895397,name,Tabernacle of Glory,regular
+356895397,religion,christian,regular
+356895421,amenity,place_of_worship,regular
+356895421,ele,138,regular
+356895421,county_id,037,gnis
+356895421,created,09/01/1990,gnis
+356895421,feature_id,1647905,gnis
+356895421,state_id,47,gnis
+356895421,name,Ramsey Street Church of Christ,regular
+356895421,religion,christian,regular
+356896146,alt_name,Former Eakin ES,regular
+356896146,amenity,school,regular
+356896146,designation,School Administration,regular
+356896146,ele,179,regular
+356896146,county_id,037,gnis
+356896146,created,08/01/1991,gnis
+356896146,feature_id,1648309,gnis
+356896146,state_id,47,gnis
+356896146,name,Martin Professional Development Center,regular
+356896146,source,MNPS,regular
+356898080,ele,125,regular
+356898080,county_id,037,gnis
+356898080,created,08/01/1991,gnis
+356898080,feature_id,1954197,gnis
+356898080,state_id,47,gnis
+356898080,leisure,park,regular
+356898080,name,Edward S Temple Track,regular
+356898080,wikidata,Q49485931,regular
+356900242,amenity,place_of_worship,regular
+356900242,denomination,baptist,regular
+356900242,ele,135,regular
+356900242,county_id,037,gnis
+356900242,created,06/24/2008,gnis
+356900242,feature_id,2453559,gnis
+356900242,state_id,47,gnis
+356900242,name,Alpha United Baptist Church,regular
+356900242,religion,christian,regular
+356900333,city,Nashville,addr
+356900333,housenumber,285,addr
+356900333,postcode,37217,addr
+356900333,street,Plus Park Boulevard,addr
+356900333,amenity,place_of_worship,regular
+356900333,denomination,baptist,regular
+356900333,feature_id,2453600,gnis
+356900333,name,Primera Iglesia Bautista,regular
+356900333,phone,615-365-4727,regular
+356900333,religion,christian,regular
+356900333,website,http://primeranashville.com/,regular
+356900410,amenity,place_of_worship,regular
+356900410,denomination,salvation_army,regular
+356900410,ele,153,regular
+356900410,county_id,037,gnis
+356900410,created,06/24/2008,gnis
+356900410,feature_id,2453626,gnis
+356900410,state_id,47,gnis
+356900410,name,Salvation Army,regular
+356900410,religion,christian,regular
+356900512,amenity,place_of_worship,regular
+356900512,ele,137,regular
+356900512,county_id,037,gnis
+356900512,created,06/24/2008,gnis
+356900512,feature_id,2453657,gnis
+356900512,state_id,47,gnis
+356900512,name,Brentwood United Methodist Church,regular
+356900512,religion,christian,regular
+356900606,city,Nashville,addr
+356900606,housenumber,1101,addr
+356900606,postcode,37212,addr
+356900606,street,19th Avenue South,addr
+356900606,amenity,place_of_worship,regular
+356900606,feature_id,2453693,gnis
+356900606,name,Disciples of Christ Historical Society,regular
+356900606,phone,866-834-7563,regular
+356900606,religion,christian,regular
+356900606,website,http://www.discipleshistory.org/,regular
+356900683,amenity,place_of_worship,regular
+356900683,ele,133,regular
+356900683,county_id,037,gnis
+356900683,created,06/24/2008,gnis
+356900683,feature_id,2453723,gnis
+356900683,state_id,47,gnis
+356900683,name,Franciscan Peace Center,regular
+356900768,amenity,place_of_worship,regular
+356900768,ele,166,regular
+356900768,county_id,037,gnis
+356900768,created,06/24/2008,gnis
+356900768,feature_id,2453752,gnis
+356900768,state_id,47,gnis
+356900768,name,Hills Tabernacle,regular
+356900888,amenity,place_of_worship,regular
+356900888,denomination,baptist,regular
+356900888,ele,147,regular
+356900888,county_id,037,gnis
+356900888,created,06/24/2008,gnis
+356900888,feature_id,2453786,gnis
+356900888,state_id,47,gnis
+356900888,name,Love United Missionary Baptist Church,regular
+356900888,religion,christian,regular
+356901007,city,Nashville,addr
+356901007,housenumber,335,addr
+356901007,postcode,37210,addr
+356901007,state,TN,addr
+356901007,street,Murfreesboro Road,addr
+356901007,amenity,place_of_worship,regular
+356901007,denomination,nazarene,regular
+356901007,feature_id,2453905,gnis
+356901007,name,Trevecca Community Church,regular
+356901007,phone,+1 615 244 5918,regular
+356901007,religion,christian,regular
+356901007,website,https://www.trevecca.church/,regular
+356901104,amenity,place_of_worship,regular
+356901104,ele,158,regular
+356901104,county_id,037,gnis
+356901104,created,06/24/2008,gnis
+356901104,feature_id,2453935,gnis
+356901104,state_id,47,gnis
+356901104,name,Woodmont Hills Church of Christ,regular
+356901104,religion,christian,regular
+356901325,amenity,school,regular
+356901325,ele,198,regular
+356901325,county_id,037,gnis
+356901325,created,06/24/2008,gnis
+356901325,feature_id,2454070,gnis
+356901325,state_id,47,gnis
+356901325,name,Crieve Hall Church of Christ Nashville School of Preaching and Biblical Studies,regular
+356901520,amenity,school,regular
+356901520,ele,134,regular
+356901520,county_id,037,gnis
+356901520,created,06/24/2008,gnis
+356901520,feature_id,2454131,gnis
+356901520,state_id,47,gnis
+356901520,name,Tennessee Baptist Missionary and Educational Convention,regular
+368157091,state,TN,addr
+368157091,building,yes,regular
+368157091,ele,164,regular
+368157091,county_name,Davidson,gnis
+368157091,feature_id,1954475,gnis
+368157091,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368157091,reviewed,no,gnis
+368157091,name,Wilkerson Hearing and Speech Center,regular
+368157091,source,USGS Geonames,regular
+368157145,state,TN,addr
+368157145,building,yes,regular
+368157145,ele,148,regular
+368157145,county_name,Davidson,gnis
+368157145,feature_id,2453867,gnis
+368157145,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368157145,reviewed,no,gnis
+368157145,name,First Response Center,regular
+368157145,source,USGS Geonames,regular
+368157394,state,TN,addr
+368157394,amenity,library,regular
+368157394,ele,152,regular
+368157394,county_name,Davidson,gnis
+368157394,feature_id,2453498,gnis
+368157394,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368157394,reviewed,no,gnis
+368157394,name,Nashville Public Library Administration Branch Nashville and Davidson Public Library,regular
+368157394,source,USGS Geonames,regular
+368157957,state,TN,addr
+368157957,building,yes,regular
+368157957,ele,165,regular
+368157957,county_name,Davidson,gnis
+368157957,feature_id,1954454,gnis
+368157957,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368157957,reviewed,no,gnis
+368157957,name,Learned Laboratory,regular
+368157957,source,USGS Geonames,regular
+368157994,state,TN,addr
+368157994,building,yes,regular
+368157994,ele,175,regular
+368157994,county_name,Davidson,gnis
+368157994,feature_id,2453875,gnis
+368157994,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368157994,reviewed,no,gnis
+368157994,name,Harding Hall,regular
+368157994,source,USGS Geonames,regular
+823638769,amenity,cafe,regular
+823638769,name,Zoofari Cafe,regular
+823638769,source,survey,regular
+834668994,amenity,school,regular
+834668994,name,Croft School,regular
+1056907479,highway,turning_circle,regular
+1169587316,entrance,yes,regular
+1229702144,power,tower,regular
+1229702870,power,tower,regular
+1230213093,power,tower,regular
+1230214549,power,tower,regular
+1230214568,power,tower,regular
+1230222175,power,tower,regular
+1230231462,power,tower,regular
+1231237897,power,tower,regular
+1232515368,power,tower,regular
+1232515385,power,tower,regular
+1232515401,power,tower,regular
+1232515423,power,tower,regular
+1232515468,power,tower,regular
+1232515517,power,pole,regular
+1232515563,power,tower,regular
+1232602378,power,tower,regular
+1232602434,power,tower,regular
+1232602491,power,tower,regular
+1232602551,power,tower,regular
+1232602585,power,tower,regular
+1232613671,power,tower,regular
+1232613698,power,tower,regular
+1232613729,power,tower,regular
+1232613754,power,tower,regular
+1232613779,power,tower,regular
+1232860852,power,tower,regular
+1232860877,power,tower,regular
+1232860901,power,tower,regular
+1232860926,power,tower,regular
+1232860963,power,tower,regular
+1232860996,power,tower,regular
+1232877340,power,tower,regular
+1232877371,power,tower,regular
+1232911386,power,tower,regular
+1232911425,power,tower,regular
+1232911456,power,tower,regular
+1232969314,power,tower,regular
+1232969355,power,tower,regular
+1233659820,power,pole,regular
+1233659897,power,pole,regular
+1233659961,power,pole,regular
+1233660045,power,pole,regular
+1233660198,power,pole,regular
+1233660322,power,pole,regular
+1233660421,power,pole,regular
+1233660552,power,pole,regular
+1233736277,power,pole,regular
+1233736314,power,pole,regular
+1233761799,power,pole,regular
+1237630231,power,tower,regular
+1237630289,power,tower,regular
+1237630344,power,tower,regular
+1237755237,power,tower,regular
+1237755289,power,tower,regular
+1237755350,power,tower,regular
+1240363354,highway,motorway_junction,regular
+1240363354,ref,84A-B,regular
+1240363354,left,84B,ref
+1240363354,right,84A,ref
+1241356181,highway,turning_circle,regular
+1440835986,name,Renaissance Nashville Hotel,regular
+1440835986,tourism,hotel,regular
+1440835986,wikidata,Q7312435,regular
+1562574468,housenumber,3431,addr
+1562574468,postcode,37203,addr
+1562574468,street,Murphy Road,addr
+1562574468,amenity,cafe,regular
+1562574468,cuisine,coffee_shop,regular
+1562574468,internet_access,wlan,regular
+1562574468,fee,no,internet_access
+1562574468,name,Dose,regular
+1562574468,website,http://dosecoffeeandtea.com/,regular
+1959783798,barrier,gate,regular
+1960751555,amenity,restaurant,regular
+1960751555,cuisine,ice_cream,regular
+1960751555,name,Las Paletas,regular
+1961220040,amenity,restaurant,regular
+1961220040,cuisine,steak_house,regular
+1961220040,name,Ted's Montana Grill,regular
+1961238322,amenity,restaurant,regular
+1961238322,cuisine,steak_house,regular
+1961238322,name,Bricktops,regular
+1961274866,name,Village Jewelers,regular
+1961274866,shop,jewelry,regular
+1961327252,amenity,restaurant,regular
+1961327252,cuisine,french,regular
+1961327252,name,Marche Artisan Foods,regular
+1961327252,wheelchair,yes,toilets
+1961327252,wheelchair,yes,regular
+1962179606,shop,alcohol,regular
+1996157489,housenumber,3798,addr
+1996157489,postcode,37211,addr
+1996157489,street,Nolensville pike,addr
+1996157489,amenity,restaurant,regular
+1996157489,cuisine,mexican,regular
+1996157489,name,Los Arcos Mexican Grill & Seafood,regular
+1996157489,website,http://losarcosgrill.com/,regular
+2010038159,housenumber,415,addr
+2010038159,postcode,37211,addr
+2010038159,street,Thompson Lane,addr
+2010038159,amenity,restaurant,regular
+2010038159,cuisine,international,regular
+2010038159,name,Gojo Ethiopian Cafe and Restaurant,regular
+2010038159,website,http://www.gojoethio.com/menu.html,regular
+2014593743,housenumber,413,addr
+2014593743,postcode,37211,addr
+2014593743,street,West Thompson Lane,addr
+2014593743,amenity,pub,regular
+2014593743,name,The Twin Kegs,regular
+2030045691,housenumber,614,addr
+2030045691,postcode,37204,addr
+2030045691,street,Thompson Lane,addr
+2030045691,amenity,restaurant,regular
+2030045691,cuisine,mexican,regular
+2030045691,name,El Mariachi Mexican Restaurant,regular
+2037600587,housenumber,729,addr
+2037600587,postcode,37204,addr
+2037600587,street,Thompson Lane,addr
+2037600587,amenity,bank,regular
+2037600587,atm,yes,regular
+2037600587,brand,Regions Bank,regular
+2037600587,wikidata,Q917131,brand
+2037600587,wikipedia,en:Regions Financial Corporation,brand
+2037600587,name,Regions Bank,regular
+2044164083,housenumber,3905,addr
+2044164083,postcode,37211,addr
+2044164083,street,Nolensville Pike,addr
+2044164083,name,Fiesta E-Mart,regular
+2044164083,shop,supermarket,regular
+2057011340,housenumber,718,addr
+2057011340,postcode,37204,addr
+2057011340,street,Thompson Lane,addr
+2057011340,name,Aleksey's Russian & Eastern European Market,regular
+2057011340,shop,supermarket,regular
+2065448563,name,Twelve Oaks Motel,regular
+2065448563,tourism,motel,regular
+2075502217,housenumber,4010,addr
+2075502217,postcode,37211,addr
+2075502217,street,Nolensville Pike,addr
+2075502217,name,State Auto Sales,regular
+2075502217,shop,car,regular
+2151998288,power,pole,regular
+2151998310,power,pole,regular
+2151998342,power,pole,regular
+2151998396,power,pole,regular
+2151998438,power,pole,regular
+2151998585,power,pole,regular
+2151998715,power,pole,regular
+2152339387,power,tower,regular
+2152339546,power,tower,regular
+2152339724,power,pole,regular
+2152339921,power,pole,regular
+2152340073,power,pole,regular
+2152340184,power,pole,regular
+2152341777,power,pole,regular
+2152342297,power,pole,regular
+2152342336,power,pole,regular
+2152342440,power,pole,regular
+2152342717,power,pole,regular
+2152342935,power,pole,regular
+2152343276,power,pole,regular
+2152343485,power,pole,regular
+2152343584,power,pole,regular
+2152343701,power,pole,regular
+2152343716,power,pole,regular
+2152343761,power,pole,regular
+2152414681,power,tower,regular
+2152414858,power,tower,regular
+2152415063,power,tower,regular
+2152415170,power,tower,regular
+2152490575,power,pole,regular
+2152490594,power,pole,regular
+2152490609,power,pole,regular
+2152490624,power,pole,regular
+2152490654,power,pole,regular
+2152490669,power,pole,regular
+2152490918,power,pole,regular
+2152490964,power,pole,regular
+2152490987,power,pole,regular
+2152491003,power,pole,regular
+2152491138,power,pole,regular
+2152491213,power,pole,regular
+2177058500,power,pole,regular
+2177058520,power,pole,regular
+2177058538,power,pole,regular
+2177058599,power,pole,regular
+2177058728,power,pole,regular
+2177058869,power,pole,regular
+2177059075,power,pole,regular
+2177059202,power,pole,regular
+2177059227,power,pole,regular
+2177059253,power,pole,regular
+2177059269,power,pole,regular
+2177059292,power,pole,regular
+2177059407,power,pole,regular
+2177059576,power,pole,regular
+2177059610,power,pole,regular
+2177059675,power,pole,regular
+2177059708,power,pole,regular
+2177059792,power,pole,regular
+2177281241,power,pole,regular
+2177281420,power,pole,regular
+2177281570,power,pole,regular
+2177282076,power,pole,regular
+2177282346,power,pole,regular
+2177282891,power,pole,regular
+2179603998,power,pole,regular
+2179604019,power,pole,regular
+2179604058,power,pole,regular
+2179604076,power,pole,regular
+2179604147,power,tower,regular
+2179604163,power,tower,regular
+2179604178,power,pole,regular
+2179604234,power,pole,regular
+2179604295,power,pole,regular
+2181131901,power,pole,regular
+2181131920,power,pole,regular
+2181131955,power,pole,regular
+2181132058,power,pole,regular
+2181132107,power,pole,regular
+2181132164,power,pole,regular
+2181132223,power,pole,regular
+2181132240,power,pole,regular
+2181132272,power,pole,regular
+2181132291,power,pole,regular
+2181132306,power,pole,regular
+2181132321,power,pole,regular
+2181132356,power,pole,regular
+2181132371,power,pole,regular
+2181214609,power,pole,regular
+2181214729,power,pole,regular
+2181214754,power,pole,regular
+2181214845,power,pole,regular
+2181214860,power,pole,regular
+2181214889,power,pole,regular
+2181214904,power,pole,regular
+2181214919,power,pole,regular
+2181214934,power,pole,regular
+2181214960,power,pole,regular
+2181214975,power,pole,regular
+2181214990,power,pole,regular
+2181215005,power,pole,regular
+2181215020,power,pole,regular
+2181215035,power,pole,regular
+2181298532,power,pole,regular
+2181298701,power,pole,regular
+2181298880,power,pole,regular
+2181298945,power,pole,regular
+2181299066,power,pole,regular
+2181299113,power,pole,regular
+2181299177,power,pole,regular
+2181299231,power,pole,regular
+2181954032,power,pole,regular
+2181959130,power,pole,regular
+2181959544,power,pole,regular
+2181959819,power,pole,regular
+2181960215,power,pole,regular
+2181962557,power,pole,regular
+2182379324,power,pole,regular
+2182379375,power,pole,regular
+2182379426,power,pole,regular
+2182379469,power,pole,regular
+2182379494,power,pole,regular
+2182379521,power,pole,regular
+2182379536,power,pole,regular
+2182379551,power,pole,regular
+2182379566,power,pole,regular
+2182379588,power,pole,regular
+2182379616,power,pole,regular
+2182379633,power,pole,regular
+2182379656,power,pole,regular
+2182379671,power,pole,regular
+2182379686,power,pole,regular
+2182379701,power,pole,regular
+2182379718,power,pole,regular
+2182379733,power,pole,regular
+2182379796,power,pole,regular
+2182379811,power,pole,regular
+2182379827,power,pole,regular
+2182379953,power,pole,regular
+2182380025,power,pole,regular
+2182380063,power,pole,regular
+2182442402,power,pole,regular
+2182442417,power,pole,regular
+2183217102,power,pole,regular
+2183217138,power,pole,regular
+2183217155,power,pole,regular
+2183217260,power,pole,regular
+2183217276,power,pole,regular
+2183217291,power,pole,regular
+2183217306,power,pole,regular
+2183217321,power,pole,regular
+2183217337,power,pole,regular
+2183217368,power,pole,regular
+2183217423,power,pole,regular
+2183217535,power,pole,regular
+2183217550,power,pole,regular
+2184078653,power,tower,regular
+2184078669,power,pole,regular
+2184078817,power,pole,regular
+2186186181,power,pole,regular
+2186186343,power,pole,regular
+2186186587,power,pole,regular
+2186186850,power,pole,regular
+2188844724,power,pole,regular
+2188844750,power,pole,regular
+2188844767,power,pole,regular
+2188844782,power,pole,regular
+2188844857,power,pole,regular
+2188845152,power,pole,regular
+2188845382,power,pole,regular
+2188845530,power,pole,regular
+2188845658,power,pole,regular
+2188845826,power,pole,regular
+2188845922,power,pole,regular
+2188846212,power,pole,regular
+2188846384,power,pole,regular
+2188846418,power,pole,regular
+2188846433,power,pole,regular
+2188846450,power,pole,regular
+2188846484,power,pole,regular
+2188846542,power,pole,regular
+2188846561,power,pole,regular
+2188846797,power,pole,regular
+2188846813,power,pole,regular
+2188846828,power,pole,regular
+2188846860,power,pole,regular
+2188847062,power,pole,regular
+2188847421,power,pole,regular
+2188847536,power,pole,regular
+2188864168,power,pole,regular
+2188864477,power,pole,regular
+2188864556,power,pole,regular
+2190216194,power,pole,regular
+2190217386,power,pole,regular
+2190217733,power,pole,regular
+2190217958,power,pole,regular
+2190218120,power,pole,regular
+2190218803,power,pole,regular
+2190219035,power,pole,regular
+2192175098,power,tower,regular
+2192175116,power,pole,regular
+2192175132,power,pole,regular
+2194658351,bus,yes,regular
+2194658351,highway,bus_stop,regular
+2194658351,name,Northbound Yelton Court,regular
+2194658351,public_transport,platform,regular
+2261695638,amenity,fast_food,regular
+2261695638,brand,Back Yard Burgers,regular
+2261695638,wikidata,Q2878376,brand
+2261695638,wikipedia,en:Back Yard Burgers,brand
+2261695638,cuisine,burger,regular
+2261695638,name,Back Yard Burgers,regular
+2261695638,takeaway,yes,regular
+2295987244,highway,traffic_signals,regular
+2295987244,traffic_signals,signal,regular
+2295987244,direction,both,traffic_signals
+2348680352,highway,traffic_signals,regular
+2348715034,amenity,fast_food,regular
+2348715034,brand,Jack in the Box,regular
+2348715034,wikidata,Q1538507,brand
+2348715034,wikipedia,en:Jack in the Box,brand
+2348715034,cuisine,burger,regular
+2348715034,name,Jack in the Box,regular
+2348715034,takeaway,yes,regular
+2373031111,board_type,board,regular
+2373031111,description,Heartland Park trailhead,regular
+2373031111,information,board,regular
+2373031111,name,Stones River Greenway,regular
+2373031111,tourism,information,regular
+2504324118,amenity,fuel,regular
+2504324118,name,Mystik,regular
+2543362862,railway,level_crossing,regular
+2558107097,3dr:direction,end,regular
+2587943547,city,Nashville,addr
+2587943547,housenumber,2121,addr
+2587943547,postcode,37228,addr
+2587943547,street,Rosa L Parks Blvd,addr
+2587943547,name,Crest Collision Center,regular
+2587943547,phone,(615) 242-4242,regular
+2587943547,shop,car_repair,regular
+2587943547,website,http://www.crestcollisioncenter.com,regular
+2727574262,amenity,fuel,regular
+2728991712,housenumber,117,addr
+2728991712,street,2nd Avenue North,addr
+2728991712,amenity,bar,regular
+2728991712,name,Brenchmark,regular
+2729284551,name,Arcade Street,regular
+2729284551,tourism,attraction,regular
+2730111759,amenity,cafe,regular
+2730111759,brand,Starbucks,regular
+2730111759,wikidata,Q37158,brand
+2730111759,wikipedia,en:Starbucks,brand
+2730111759,cuisine,coffee_shop,regular
+2730111759,name,Starbucks,regular
+2730111759,official_name,Starbucks Coffee,regular
+2730111759,takeaway,yes,regular
+2731140633,amenity,cafe,regular
+2731140633,brand,Starbucks,regular
+2731140633,wikidata,Q37158,brand
+2731140633,wikipedia,en:Starbucks,brand
+2731140633,cuisine,coffee_shop,regular
+2731140633,name,Starbucks,regular
+2731140633,takeaway,yes,regular
+2886992575,amenity,fast_food,regular
+2886992575,brand,Chick-fil-A,regular
+2886992575,wikidata,Q491516,brand
+2886992575,wikipedia,en:Chick-fil-A,brand
+2886992575,cuisine,chicken,regular
+2886992575,name,Chick-fil-A,regular
+2886992575,takeaway,yes,regular
+2922178213,highway,traffic_signals,regular
+2922178213,traffic_signals,signal,regular
+2922178213,direction,both,traffic_signals
+3197262021,housenumber,4301,addr
+3197262021,street,Charlotte Avenue,addr
+3197262021,amenity,place_of_worship,regular
+3197262021,name,Immanuel Nashville,regular
+3197262021,religion,christian,regular
+3228668919,railway,level_crossing,regular
+3228815943,power,pole,regular
+3260074378,city,Nashville,addr
+3260074378,housenumber,2112,addr
+3260074378,postcode,37203,addr
+3260074378,state,TN,addr
+3260074378,street,Charlotte Avenue,addr
+3260074378,amenity,fuel,regular
+3260074378,name,Daily's,regular
+3260074378,website,http://www.dailys.com/,regular
+3271421494,barrier,gate,regular
+3380538545,highway,stop,regular
+3424201810,city,Nashville,addr
+3424201810,housenumber,805,addr
+3424201810,postcode,37206,addr
+3424201810,state,TN,addr
+3424201810,street,Woodland Street,addr
+3424201810,amenity,place_of_worship,regular
+3424201810,denomination,Non-Denominational,regular
+3424201810,name,The Village Chapel East,regular
+3424201810,note,Suite 330  Sundays at 8:30am,regular
+3424201810,religion,christian,regular
+3424201810,website,https://www.thevillagechapel.com/,regular
+3685982442,amenity,charging_station,regular
+3685982442,brand,ChargePoint,regular
+3685982442,wikidata,Q5176149,brand
+3685982442,wikipedia,en:ChargePoint,brand
+3685982442,capacity,4,regular
+3685982442,name,ChargePoint,regular
+3685982442,opening_hours,24/7,regular
+3685982442,type1,4,socket
+3863631628,amenity,bank,regular
+3863631628,brand,Bank of America,regular
+3863631628,wikidata,Q487907,brand
+3863631628,wikipedia,en:Bank of America,brand
+3863631628,drive_through,yes,regular
+3863631628,name,Bank of America,regular
+4053180625,highway,crossing,regular
+4143576806,brand,Hampton Inn & Suites,regular
+4143576806,wikidata,Q5646230,brand
+4143576806,wikipedia,en:Hampton by Hilton,brand
+4143576806,name,Hampton Inn & Suites Nashville / Airport,regular
+4143576806,official_name,Hampton Inn & Suites by Hilton,regular
+4143576806,tourism,hotel,regular
+4143576822,name,Quality Suites Nashville Airport,regular
+4143576822,tourism,hotel,regular
+4143576837,name,Scottish Inn,regular
+4143576837,tourism,motel,regular
+4143615312,name,The Capitol Hotel Downtown Nashville,regular
+4143615312,tourism,hotel,regular
+4600668988,barrier,gate,regular
+4600669248,noexit,yes,regular
+4600669353,barrier,gate,regular
+4600669710,barrier,gate,regular
+4600670132,highway,street_lamp,regular
+4600670147,highway,street_lamp,regular
+4600670162,highway,street_lamp,regular
+4600670177,highway,street_lamp,regular
+4600670292,highway,street_lamp,regular
+4600670307,highway,street_lamp,regular
+4600670322,highway,street_lamp,regular
+4600670337,highway,street_lamp,regular
+4600827786,highway,street_lamp,regular
+4600828401,highway,street_lamp,regular
+4600828416,highway,street_lamp,regular
+4600828431,highway,street_lamp,regular
+4600828446,highway,street_lamp,regular
+4600828461,highway,street_lamp,regular
+4602375028,amenity,parking_entrance,regular
+4602734658,amenity,fountain,regular
+4604806197,highway,street_lamp,regular
+4604806212,highway,street_lamp,regular
+4604806227,highway,street_lamp,regular
+4604806242,highway,street_lamp,regular
+4604806257,highway,street_lamp,regular
+4607163280,highway,street_lamp,regular
+4607163311,highway,street_lamp,regular
+4607163326,highway,street_lamp,regular
+4607163341,highway,street_lamp,regular
+4607163356,highway,street_lamp,regular
+4607163371,highway,street_lamp,regular
+4607163386,highway,street_lamp,regular
+4628089610,highway,turning_loop,regular
+4655126368,city,Nashville,addr
+4655126368,housenumber,428,addr
+4655126368,postcode,37203,addr
+4655126368,state,TN,addr
+4655126368,street,Broadway,addr
+4655126368,amenity,bar,regular
+4655126368,name,Legends Corner,regular
+4655126389,city,Nashville,addr
+4655126389,housenumber,304,addr
+4655126389,postcode,37203,addr
+4655126389,state,TN,addr
+4655126389,street,Broadway,addr
+4655126389,name,Boot Country,regular
+4655126389,shop,shoes,regular
+4688623499,city,Nashville,addr
+4688623499,housenumber,5913,addr
+4688623499,postcode,37209,addr
+4688623499,state,TN,addr
+4688623499,street,Charlotte Pike,addr
+4688623499,suite,B,addr
+4688623499,name,Camille's Beauty Studio,regular
+4688623499,phone,+1-615-540-1985,regular
+4688623499,shop,beauty,regular
+4688623499,website,http://camillesbeautystudio.net,regular
+4710792680,access,private,regular
+4710792680,leisure,sports_centre,regular
+4710792680,name,Gazebo sports complex,regular
+4710792680,sport,swimming,regular
+4726835171,city,Nashville,addr
+4726835171,housenumber,505,addr
+4726835171,postcode,37210,addr
+4726835171,state,TN,addr
+4726835171,street,Fesslers Lane,addr
+4726835171,name,Lions Headquarters,regular
+4726835171,office,company,regular
+4726835171,phone,+1-615-690-8644,regular
+4726835171,website,http://www.tennesseelions.org,regular
+4790924822,highway,turning_circle,regular
+4796330617,name,Target,regular
+4796330617,shop,department_store,regular
+4826199594,highway,bus_stop,regular
+4826199594,shelter,yes,regular
+5064773003,railway,crossing,regular
+5074451554,city,Nashville,addr
+5074451554,housenumber,507,addr
+5074451554,postcode,37203,addr
+5074451554,state,TN,addr
+5074451554,street,Hagan Street,addr
+5074451554,unit,C,addr
+5074451554,name,mild climate,regular
+5074451554,tourism,gallery,regular
+5074451554,website,http://www.mild-climate.net/,regular
+5074574758,city,Nashville,addr
+5074574758,housenumber,1117,addr
+5074574758,postcode,37210,addr
+5074574758,state,TN,addr
+5074574758,street,3rd Avenue South,addr
+5074574758,name,Nashville Dry Goods,regular
+5074574758,shop,clothes,regular
+5074574758,website,https://www.nashvilledrygoods.com/,regular
+5143447123,amenity,bench,regular
+5150841929,crossing,unmarked,regular
+5150841929,highway,crossing,regular
+5184752620,leaf_cycle,deciduous,regular
+5184752620,natural,tree,regular
+5226624624,highway,bus_stop,regular
+5254498635,crossing,uncontrolled,regular
+5254498635,highway,crossing,regular
+5254506501,crossing,traffic_signals,regular
+5254506501,highway,crossing,regular
+5254556370,highway,crossing,regular
+5300871543,crossing,traffic_signals,regular
+5300871543,highway,crossing,regular
+5300963198,crossing,marked,regular
+5300963198,highway,crossing,regular
+5311163474,name,Harbor Freight Tools,regular
+5311163474,shop,hardware,regular
+5443709238,highway,crossing,regular
+5510974406,amenity,bar,regular
+5510974406,name,Whiskey Rhythm,regular
+5511703494,amenity,pub,regular
+5511703494,name,Tavern,regular
+5511908023,crossing,marked,regular
+5511908023,highway,crossing,regular
+5511908038,crossing,marked,regular
+5511908038,highway,crossing,regular
+5519903421,amenity,bar,regular
+5519903421,name,The 5 spot,regular
+5525027868,amenity,restaurant,regular
+5525027868,cuisine,american,regular
+5525027868,name,Slider,regular
+5548271521,highway,crossing,regular
+5548271536,highway,crossing,regular
+5548271568,crossing,traffic_signals,regular
+5548271568,highway,crossing,regular
+5650933295,man_made,antenna,regular
+5652763234,amenity,police,regular
+5652763234,name,Metro Police Department - North Precinct,regular
+5652763234,source,Mapbox,regular
+5718161319,natural,tree,regular
+5773160946,amenity,restaurant,regular
+5773160946,name,Miss Saigon Vietnamese Restaurant,regular
+5797890223,direction,both,regular
+5797890223,highway,stop,regular
+5814458289,access,private,regular
+5814458289,barrier,gate,regular
+5830109374,city,Nashville,addr
+5830109374,housenumber,2910,addr
+5830109374,postcode,37203,addr
+5830109374,state,TN,addr
+5830109374,street,West End Avenue,addr
+5830109374,leisure,fitness_centre,regular
+5830109374,name,On The End Crossfit,regular
+5895465781,highway,crossing,regular
+5928204475,barrier,gate,regular
+5944402954,amenity,bicycle_parking,regular
+5983854080,highway,bus_stop,regular
+5983854080,level,2,regular
+5983854080,name,Bay 3,regular
+5983854080,route_ref,8;10 weekdays;AccessRide,regular
+6019768789,housenumber,1235,addr
+6019768789,postcode,37208,addr
+6019768789,street,6th Avenue North,addr
+6019768789,amenity,restaurant,regular
+6019768789,cuisine,american;breakfast;local,regular
+6019768789,name,Monell's dining and catering,regular
+6019768789,phone,6152484747,regular
+6019768789,website,https://www.monellstn.com/,regular
+6023042554,leaf_cycle,evergreen,regular
+6023042554,natural,tree,regular
+6066497031,amenity,bench,regular
+6131854072,barrier,yes,regular
+6133490544,natural,tree,regular
+6145486454,bus,yes,regular
+6145486454,highway,bus_stop,regular
+6145486454,public_transport,platform,regular
+6286565946,aeroway,gate,regular
+6286565946,ref,C20,regular
+6301774419,barrier,gate,regular
+6312880842,amenity,toilets,regular
+6314450641,amenity,bar,regular
+6314450641,name,Pearl diver,regular
+6315238596,amenity,fuel,regular
+6315238596,opening_hours,24/7,regular
+6336428569,highway,crossing,regular
+6336429399,crossing,marked,regular
+6336429399,highway,crossing,regular
+6336429414,highway,crossing,regular
+6336530872,traffic_calming,bump,regular
+6338634337,leaf_cycle,deciduous,regular
+6338634337,leaf_type,broadleaved,regular
+6338634337,natural,tree,regular
+6350233677,railway,crossing,regular
+6351575958,highway,turning_circle,regular
+6352513930,amenity,fountain,regular
+6362807902,amenity,bench,regular
+6362807902,backrest,yes,regular
+6363579995,highway,crossing,regular
+6364263543,amenity,fountain,regular
+6364265903,amenity,fountain,regular
+6364265933,bus,yes,regular
+6364265933,highway,bus_stop,regular
+6364265933,public_transport,platform,regular
+6376814922,amenity,fountain,regular
+6378943919,highway,crossing,regular
+6381636565,highway,crossing,regular
+6383916511,highway,turning_loop,regular
+6393986107,highway,crossing,regular
+6394177810,highway,crossing,regular
+6401514773,highway,crossing,regular
+6401514903,highway,crossing,regular
+6407068569,crossing,marked,regular
+6407068569,highway,crossing,regular
+6409569269,highway,crossing,regular
+6409672069,highway,crossing,regular
+6409672299,highway,crossing,regular
+6440571971,crossing,marked,regular
+6440571971,highway,crossing,regular
+6440719711,highway,crossing,regular
+6440719756,highway,crossing,regular
+6441459349,leaf_cycle,deciduous,regular
+6441459349,natural,tree,regular
+6445988315,amenity,bench,regular
+6445988375,artwork_type,sculpture,regular
+6445988375,tourism,artwork,regular
+6464766768,highway,crossing,regular
+6464767098,highway,crossing,regular
+6464767113,highway,crossing,regular
+6469105601,barrier,gate,regular
+6473944198,highway,crossing,regular
+6473944213,highway,crossing,regular
+6473958588,highway,crossing,regular
+6478191656,highway,crossing,regular
+6518497208,crossing,unmarked,regular
+6518497208,highway,crossing,regular
+6532349297,bus,yes,regular
+6532349297,highway,bus_stop,regular
+6532349297,public_transport,platform,regular
+6537694486,crossing,marked,regular
+6537694486,highway,crossing,regular
+6540101203,highway,crossing,regular
+6540101218,highway,crossing,regular
+6543156418,highway,crossing,regular
+6546368855,highway,crossing,regular
+6546368900,highway,crossing,regular
+6546368945,highway,crossing,regular
+6546368960,highway,crossing,regular
+6547128694,amenity,drinking_water,regular
+6547132290,amenity,fast_food,regular
+6547132290,name,Hissho Sushi,regular
+6547172989,amenity,cafe,regular
+6547172989,brand,Starbucks,regular
+6547172989,wikidata,Q37158,brand
+6547172989,wikipedia,en:Starbucks,brand
+6547172989,cuisine,coffee_shop,regular
+6547172989,name,Starbucks,regular
+6547172989,takeaway,yes,regular
+6549762552,aeroway,gate,regular
+6549762552,name,B9,regular
+6549762552,ref,B9,regular
+6549762567,aeroway,gate,regular
+6549762567,name,C6,regular
+6549762567,ref,C6,regular
+6550602412,crossing,marked,regular
+6550602412,highway,crossing,regular
+6550602442,highway,crossing,regular
+6573396647,crossing,marked,regular
+6573396647,highway,crossing,regular
+6575606826,crossing,marked,regular
+6575606826,highway,crossing,regular
+6575606856,highway,crossing,regular
+6575606901,crossing,marked,regular
+6575606901,highway,crossing,regular
+6584318415,highway,crossing,regular
+6584318430,crossing,marked,regular
+6584318430,highway,crossing,regular
+6584318445,highway,crossing,regular
+6596766096,crossing,unmarked,regular
+6596766096,highway,crossing,regular
+6596794964,highway,crossing,regular
+6596832757,highway,crossing,regular
+6597029690,highway,crossing,regular
+6597189941,access,no,regular
+6597189941,barrier,gate,regular
+6606069655,barrier,block,regular
+6606069655,material,wood,regular
+6610068281,crossing,unmarked,regular
+6610068281,highway,crossing,regular
+6611066455,man_made,flagpole,regular
+6617392437,crossing,marked,regular
+6617392437,highway,crossing,regular
+6617392452,highway,crossing,regular
+6617800455,highway,crossing,regular
+6617800470,crossing,marked,regular
+6617800470,highway,crossing,regular
+6617806962,highway,crossing,regular
+6620238918,highway,crossing,regular
+6620238948,highway,crossing,regular
+6620753997,crossing,marked,regular
+6620753997,highway,crossing,regular
+6620846451,highway,crossing,regular
+6620846466,crossing,marked,regular
+6620846466,highway,crossing,regular
+6620914350,crossing,marked,regular
+6620914350,highway,crossing,regular
+6620997138,highway,crossing,regular
+6644731372,highway,crossing,regular
+6644791855,crossing,marked,regular
+6644791855,highway,crossing,regular
+6648122722,crossing,marked,regular
+6648122722,highway,crossing,regular
+6651459962,highway,crossing,regular
+6651769042,crossing,marked,regular
+6651769042,highway,crossing,regular
+6676211403,leisure,outdoor_seating,regular
+6676228296,leaf_cycle,evergreen,regular
+6676228296,natural,tree,regular
+6677530901,crossing,unmarked,regular
+6677530901,highway,crossing,regular
+6677792681,highway,crossing,regular
+6681296711,highway,turning_circle,regular
+6687202702,barrier,lift_gate,regular
+6687446377,barrier,gate,regular
+6687601150,barrier,gate,regular
+6687912909,barrier,gate,regular
+6688262719,highway,turning_loop,regular
+6690377632,barrier,gate,regular
+6690412028,barrier,gate,regular
+6690425468,highway,crossing,regular
+6690806671,barrier,gate,regular
+6691244677,barrier,gate,regular
+6691274794,barrier,gate,regular
+6694166228,barrier,gate,regular
+6694215415,railway,level_crossing,regular
+6694493857,barrier,gate,regular
+6694505572,barrier,gate,regular
+6723721856,crossing,marked,regular
+6723721856,highway,crossing,regular
+6726038955,barrier,gate,regular
+6727761854,highway,crossing,regular
+6727761869,crossing,marked,regular
+6727761869,highway,crossing,regular
+6727761884,crossing,marked,regular
+6727761884,highway,crossing,regular
+6731997669,highway,crossing,regular
+6733505886,crossing,marked,regular
+6733505886,highway,crossing,regular
+6733505947,crossing,marked,regular
+6733505947,highway,crossing,regular
+6733505962,crossing,marked,regular
+6733505962,highway,crossing,regular
+6734766520,barrier,gate,regular
+6750876012,direction,backward,regular
+6750876012,highway,stop,regular
+6757952180,highway,crossing,regular
+6757966201,highway,crossing,regular
+6768465653,highway,crossing,regular
+6768493108,crossing,marked,regular
+6768493108,highway,crossing,regular
+6770357526,highway,crossing,regular
+6772231308,highway,crossing,regular
+6772235582,highway,crossing,regular
+6773081644,highway,crossing,regular
+6773130163,crossing,unmarked,regular
+6773130163,highway,crossing,regular
+6773149038,highway,crossing,regular
+6780261867,crossing,marked,regular
+6780261867,highway,crossing,regular
+6780261927,crossing,marked,regular
+6780261927,highway,crossing,regular
+6780261972,crossing,marked,regular
+6780261972,highway,crossing,regular
+6780262077,highway,crossing,regular
+6780262123,crossing,marked,regular
+6780262123,highway,crossing,regular
+6780262138,crossing,marked,regular
+6780262138,highway,crossing,regular
+6780264936,crossing,marked,regular
+6780264936,highway,crossing,regular
+6780283860,highway,crossing,regular
+6780294979,crossing,marked,regular
+6780294979,highway,crossing,regular
+6780295054,highway,crossing,regular
+6780295069,highway,crossing,regular
+6780295099,highway,crossing,regular
+6781852777,crossing,marked,regular
+6781852777,highway,crossing,regular
+6781896515,highway,crossing,regular
+6781922117,highway,crossing,regular
+6783134410,crossing,marked,regular
+6783134410,highway,crossing,regular
+6786189829,crossing,marked,regular
+6786189829,highway,crossing,regular
+6786189844,highway,crossing,regular
+6788978637,barrier,gate,regular
+6789350075,highway,crossing,regular
+6789351105,highway,crossing,regular
+6789351120,leisure,picnic_table,regular
+6789693371,barrier,gate,regular
+6789694300,highway,turning_circle,regular
+6791481267,crossing,marked,regular
+6791481267,highway,crossing,regular
+6791493612,highway,crossing,regular
+6793669404,crossing,marked,regular
+6793669404,highway,crossing,regular
+6810128740,highway,crossing,regular
+6817750352,amenity,bench,regular
+6817750352,backrest,yes,regular
+6818123581,crossing,marked,regular
+6818123581,highway,crossing,regular
+6818138696,crossing,marked,regular
+6818138696,highway,crossing,regular
+6818138711,crossing,marked,regular
+6818138711,highway,crossing,regular
+6818138726,highway,crossing,regular
+6818138741,crossing,marked,regular
+6818138741,highway,crossing,regular
+6845074331,highway,crossing,regular
+6846952625,barrier,gate,regular
+6848741913,highway,crossing,regular
+6848760981,crossing,unmarked,regular
+6848760981,highway,crossing,regular
+6848765796,highway,crossing,regular
+6848812581,crossing,marked,regular
+6848812581,highway,crossing,regular
+6848825826,crossing,marked,regular
+6848825826,highway,crossing,regular
+6848825841,highway,crossing,regular
+6848828226,highway,crossing,regular
+6857952735,highway,crossing,regular
+6857952750,highway,crossing,regular
+6857952780,highway,crossing,regular
+6857971910,highway,crossing,regular
+6868198505,highway,crossing,regular
+6868198520,highway,crossing,regular
+6871007973,highway,crossing,regular
+6871019088,crossing,marked,regular
+6871019088,highway,crossing,regular
+6871030195,crossing,marked,regular
+6871030195,highway,crossing,regular
+6871088252,highway,crossing,regular
+6871399601,highway,crossing,regular
+6871399616,crossing,marked,regular
+6871399616,highway,crossing,regular
+6871399631,crossing,marked,regular
+6871399631,highway,crossing,regular
+6871399646,crossing,unmarked,regular
+6871399646,highway,crossing,regular
+6871419521,highway,crossing,regular
+6871419536,highway,crossing,regular
+6871419551,highway,crossing,regular
+6871419566,highway,crossing,regular
+6871419581,highway,crossing,regular
+6871422996,highway,crossing,regular
+6871423011,crossing,marked,regular
+6871423011,highway,crossing,regular
+6871495437,highway,crossing,regular
+6871495452,highway,crossing,regular
+6871502801,highway,crossing,regular
+6871548482,highway,crossing,regular
+6871551927,highway,crossing,regular
+6871551942,highway,crossing,regular
+6871776647,highway,crossing,regular
+6871810631,highway,crossing,regular
+6871810676,crossing,marked,regular
+6871810676,highway,crossing,regular
+6875824337,man_made,tower,regular
+6875824337,type,communication,tower
+6883099690,leisure,outdoor_seating,regular
+6886074389,highway,crossing,regular
+6886097093,crossing,unmarked,regular
+6886097093,highway,crossing,regular
+6896679878,highway,crossing,regular
+6896715686,crossing,marked,regular
+6896715686,highway,crossing,regular
+6910390567,highway,crossing,regular
+6910430410,crossing,unmarked,regular
+6910430410,highway,crossing,regular
+6910430425,crossing,unmarked,regular
+6910430425,highway,crossing,regular
+6910430455,crossing,marked,regular
+6910430455,highway,crossing,regular
+6910430470,crossing,unmarked,regular
+6910430470,highway,crossing,regular
+6910430485,highway,crossing,regular
+6958051382,crossing,marked,regular
+6958051382,highway,crossing,regular
+6958074397,highway,crossing,regular
+6970379975,crossing,unmarked,regular
+6970379975,highway,crossing,regular
+6970379990,highway,crossing,regular
+6970380005,crossing,unmarked,regular
+6970380005,highway,crossing,regular
+6970380020,crossing,unmarked,regular
+6970380020,highway,crossing,regular
+6973359922,highway,crossing,regular
+6973397897,highway,crossing,regular
+6973397912,crossing,marked,regular
+6973397912,highway,crossing,regular
+6973397927,highway,crossing,regular
+6973397942,highway,crossing,regular
+6973397957,highway,crossing,regular
+6973398002,highway,crossing,regular
+6973398032,crossing,marked,regular
+6973398032,highway,crossing,regular
+6973398047,crossing,marked,regular
+6973398047,highway,crossing,regular
+6973398062,highway,crossing,regular
+6973983763,highway,crossing,regular
+6973983778,highway,crossing,regular
+6974027693,highway,crossing,regular
+6974027783,crossing,unmarked,regular
+6974027783,highway,crossing,regular
+6974027813,highway,crossing,regular
+6974229055,crossing,unmarked,regular
+6974229055,highway,crossing,regular
+6974682511,crossing,marked,regular
+6974682511,highway,crossing,regular
+6975017276,highway,crossing,regular
+6975280067,highway,crossing,regular
+6990550503,crossing,unmarked,regular
+6990550503,highway,crossing,regular
+6995637290,barrier,gate,regular
+6996246076,barrier,gate,regular
+7016950133,barrier,gate,regular
+7017256005,highway,turning_loop,regular
+7018689884,highway,turning_loop,regular
+7019492570,barrier,gate,regular
+7026995065,highway,crossing,regular
+7029960499,highway,crossing,regular
+7033853557,highway,crossing,regular
+7033856092,crossing,unmarked,regular
+7033856092,highway,crossing,regular
+7033856137,highway,crossing,regular
+7033914346,crossing,marked,regular
+7033914346,highway,crossing,regular
+7039128157,highway,crossing,regular
+7048238362,barrier,gate,regular
+7048277461,railway,level_crossing,regular
+7050873742,barrier,gate,regular
+7051072101,barrier,gate,regular
+7061777095,crossing,unmarked,regular
+7061777095,highway,crossing,regular
+7078850716,artwork_type,mural,regular
+7078850716,tourism,artwork,regular
+7078850761,highway,crossing,regular
+7078862351,highway,crossing,regular
+7078882921,highway,crossing,regular
+7079403524,barrier,gate,regular
+7089002829,crossing,unmarked,regular
+7089002829,highway,crossing,regular
+7102100511,crossing,marked,regular
+7102100511,highway,crossing,regular
+7102100601,highway,crossing,regular
+7102116819,highway,crossing,regular
+7104992854,highway,crossing,regular
+7104992869,highway,crossing,regular
+7104992884,crossing,marked,regular
+7104992884,highway,crossing,regular
+7105240893,crossing,unmarked,regular
+7105240893,highway,crossing,regular
+7108287951,amenity,cafe,regular
+7108287951,name,District Coffee,regular
+7113067166,name,Hamlett Printing Services,regular
+7113067166,shop,copyshop,regular
+7113067166,website,http://www.hamlettprinting.com/,regular
+7123518170,highway,crossing,regular
+7123593364,crossing,marked,regular
+7123593364,highway,crossing,regular
+7123593379,crossing,marked,regular
+7123593379,highway,crossing,regular
+7123593424,highway,crossing,regular
+7123593469,crossing,unmarked,regular
+7123593469,highway,crossing,regular
+7123633361,name,Scout's Barbershop,regular
+7123633361,operator,Scout's,regular
+7123633361,shop,hairdresser,regular
+7123689992,crossing,unmarked,regular
+7123689992,highway,crossing,regular
+7132108414,crossing,marked,regular
+7132108414,highway,crossing,regular
+7132126212,highway,crossing,regular
+7133431148,highway,crossing,regular
+7141922653,highway,crossing,regular
+7141922668,highway,crossing,regular
+7141942043,crossing,marked,regular
+7141942043,highway,crossing,regular
+7143763997,highway,crossing,regular
+7143831128,crossing,marked,regular
+7143831128,highway,crossing,regular
+7146851653,highway,crossing,regular
+7147170287,leisure,outdoor_seating,regular
+7157574819,crossing,zebra,regular
+7157574819,highway,crossing,regular
+7157870420,crossing,unmarked,regular
+7157870420,highway,crossing,regular
+7157870435,crossing,unmarked,regular
+7157870435,highway,crossing,regular
+7157994835,highway,crossing,regular
+7158025013,highway,crossing,regular
+7158045989,highway,crossing,regular
+7173953477,barrier,gate,regular
+7187499323,barrier,gate,regular
+7189810928,barrier,gate,regular
+7211116105,barrier,gate,regular
+7238398156,barrier,gate,regular
+7238398171,barrier,gate,regular
+7257594266,barrier,gate,regular
+7260047889,barrier,gate,regular
+7264975882,amenity,cafe,regular
+7264975882,brand,Starbucks,regular
+7264975882,wikidata,Q37158,brand
+7264975882,wikipedia,en:Starbucks,brand
+7264975882,cuisine,coffee_shop,regular
+7264975882,name,Starbucks,regular
+7264975882,official_name,Starbucks Coffee,regular
+7264975882,takeaway,yes,regular
+7265578863,barrier,gate,regular
+7271097686,highway,crossing,regular
+7284039120,crossing,marked,regular
+7284039120,highway,crossing,regular
+7284039165,highway,crossing,regular
+7304201140,highway,crossing,regular
+7320972999,city,Nashville,addr
+7320972999,housenumber,1203,addr
+7320972999,postcode,37206,addr
+7320972999,state,TN,addr
+7320972999,street,Chapel Avenue,addr
+7320972999,name,Andrew’s Micro-Greens,regular
+7320972999,opening_hours,Mo-Fr 09:00-17:00,regular
+7320972999,shop,garden_centre,regular
+7321026416,city,Nashville,addr
+7321026416,housenumber,535,addr
+7321026416,postcode,37206,addr
+7321026416,state,TN,addr
+7321026416,street,Main Street,addr
+7321026416,landuse,residential,regular
+7321026416,name,Stacks on Main,regular
+7321026416,residential,apartments,regular
+7374084200,brand,Verizon Wireless,regular
+7374084200,wikidata,Q919641,brand
+7374084200,wikipedia,en:Verizon Wireless,brand
+7374084200,name,Verizon Wireless,regular
+7374084200,shop,mobile_phone,regular
+7376230200,name,Kim's Hair Plus,regular
+7376230200,shop,hairdresser_supply,regular
+7381258690,amenity,fast_food,regular
+7381258690,brand,Dunkin' Donuts,regular
+7381258690,wikidata,Q847743,brand
+7381258690,wikipedia,en:Dunkin' Donuts,brand
+7381258690,cuisine,donut;coffee_shop,regular
+7381258690,name,Dunkin' Donuts,regular
+7381258690,takeaway,yes,regular
+7381258705,brand,Walgreens,regular
+7381258705,wikidata,Q1591889,brand
+7381258705,wikipedia,en:Walgreens,brand
+7381258705,name,Walgreens,regular
+7381258705,shop,chemist,regular
+7382950644,shop,convenience,regular
+7384023311,amenity,fast_food,regular
+7396412210,crossing,marked,regular
+7396412210,highway,crossing,regular
+7396412240,highway,crossing,regular
+7396412315,highway,crossing,regular
+7404974528,barrier,gate,regular
+7423822405,crossing,unmarked,regular
+7423822405,highway,crossing,regular
+7439676735,highway,crossing,regular
+7439974206,barrier,lift_gate,regular
+7459153907,highway,crossing,regular
+7505448875,barrier,gate,regular
+7528096990,highway,crossing,regular
+7528097005,crossing,marked,regular
+7528097005,highway,crossing,regular
+7528097020,crossing,unmarked,regular
+7528097020,highway,crossing,regular
+7536152149,barrier,gate,regular
+7576312969,crossing,marked,regular
+7576312969,highway,crossing,regular
+7576368114,highway,crossing,regular
+7578072498,crossing,unmarked,regular
+7578072498,highway,crossing,regular
+7592052070,barrier,gate,regular
+7604894109,barrier,gate,regular
+7612595984,man_made,manhole,regular
+7612595984,manhole,drain,regular
