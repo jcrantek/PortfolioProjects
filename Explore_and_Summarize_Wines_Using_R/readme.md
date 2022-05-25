@@ -1,1 +1,6 @@
+# Reflection
+This exploration of data using R was my first time even using the R language. I found myself constantly comparing it to analysing data using Python. I found lots to like though in R, from the easy way to load new packages, to the overflowing amount of graphing types and customization. I can see why this still can be considered the language of choice for statistical analysis.
 
+As for the dataset itself, I found it challenging in that I’m not much of a wine drinker. So to me, I had a hard time relating to what would make a good wine. I learned a lot about the different factors and how they affect overall quality from this dataset. I felt that this dataset was a bit skewed towards quality though as it was the only sensory variable out of the set. The others were all based on their chemical influence on wine.
+
+Things I would continue to find in this set, would be subsetting a lot of the data and remove outliers to clean up some of the plots I made. Probably applying more statistical analysis as well. These plots look nice but sometimes it’s good to have a nice table of data for study. I would find some xtable library examples out there on the ’net to make the tables look nicer.
