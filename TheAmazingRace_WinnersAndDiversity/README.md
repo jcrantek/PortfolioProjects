@@ -20,3 +20,14 @@ The goal of this project is to create a Google Colab Notebook using Python and i
 -	Discover patterns from previous seasons’ winners and use the factors to determine a potential future winner
 -	Discover statistical counts of the representation of past contestants to compare to current US population data
 -	Visualize the discoveries to make a much more legible representation of the data
+
+## Source of Data
+
+The datasets for my project are newly created because a dataset does not already exist to the public. Nine (9) datasets will be created with each one consisting of a certain breakdown of factors from the show. The largest source of data will be imported from The Amazing Race’s Wikipedia page. Another site that will be used is Fandom.com’s Amazing Race page. This site contains more minutia of data such as age, race and genders which are important factors in my project. The quickfacts dataset will be created from the US Census Bureau’s “Quickfacts” website and will incorporate data from the 2020 US Census. The distance dataset was started by a reddit contributor up to the 29th season and then I added the additional 30th-32nd season’s data. The remaining datasets I created manually in Microsoft Excel using data found from Wikipedia.com, Fandom.com and Reddit.com. 
+
+## Appropriateness of Dataset
+
+The justification for using these datasets is that, currently, no publicly accessible datasets created for The Amazing Race exists. This data contains all the necessary fields, in the correct formats, needed to use Python and Exploratory Data Analysis to present my findings.
+
+## Data Collection Methods
+To create most of the datasets used, I imported several pages of html into Python using the Pandas library as a “web scraper”. Pandas then read the html of the webpage into dataframes, using the pandas.read_html function. Using Python, I was able to move through the dataframes to clean and transform the data. I exported the cleaned data to csv files for further cleaning or transformation if necessary. The website Fandom.com would not import successfully into a dataframe using this method. Possibly due to some JavaScript on the website that prevents scraping of data. In this case, I had to manually update csv files with data from the website directly. The remaining datasets were manually created in Microsoft Excel, cleaned, and transformed and then exported to a csv file. Since I was manually importing and updating the csv files, I ensured accuracy along the way. This also allowed me to double-check the data from the websites such as Wikipedia to ensure accuracy and quality.
