@@ -1,4 +1,4 @@
-# Project 5: Explore and Summarize Data
+# Explore and Summarize Wine Data Using R
 
 ## Note - This is a work in progress README file. Images have not been linked yet so charts and data are inconclusive at this time.
 
